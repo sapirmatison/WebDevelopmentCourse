@@ -1,0 +1,96 @@
+body {
+    direction: rtl;
+    background-image: url(../images/abstract-geometric-background_23-2147511541.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    background-size: cover;
+
+  
+}
+
+#sapir
+{
+    background-image: url("../images/IMG_2813.JPG");
+    width: 481px;
+    height:703px;
+    background-position: left;
+    float:left ;
+    background-size:cover;
+    }
+#sapir:hover
+{
+    background: url("../images/IMG_0255.JPG");
+  -webkit-transition: all 3s ease-in-out;
+-moz-transition: all 3s ease-in-out;
+-ms-transition: all 3s ease-in-out;
+-o-transition: all 3s ease-in-out;
+transition: all 3s ease-in-out;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+    font-size: 24px;
+    text-align:center;
+      
+    }
+#image a
+{
+    display:inline-block;
+    width:50px;
+    height:50px;
+    background-repeat:no-repeat;
+    background-size:contain;
+
+    }
+#facebook
+{
+    background-image:url(../images/F_icon.svg.png);
+}
+h1 {
+    padding-top: 15px;
+    color: #3416bb;
+    font-size: 42px;
+}
+
+#MYid {
+    font-size:32px;
+ 
+}
+
+#love {
+    font-size:32px;
+    color: #ff6a00;
+}
+
+#contact {
+    color:#ffd800;
+}
+
+#name
+{
+    color:#4d1179;
+}
+#school
+{
+    color: #a70ea7;
+}
+#work
+{
+    color:#d928ae;
+}
+a:hover
+{
+    color:#d928ae;
+}
+a:active
+{
+    color:red;
+}
+a:after
+{
+    color:#d928ae;
+}
+
+
